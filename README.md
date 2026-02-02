@@ -167,7 +167,7 @@ wordcloud
 
 **Naman Bansal**  
 💼 Data Science & Machine Learning Enthusiast  
-📫 [LinkedIn](#https://www.linkedin.com/in/naman-bansal-01969a325) 
+📫 [LinkedIn](https://www.linkedin.com/in/naman-bansal-01969a325) 
 
 ---
 
